@@ -9,7 +9,7 @@ Recreate Internship Task-1 using a strict tech stack and templating engine.
 
 ## Folder Structure
 - `src/templates/` → Contains Nunjucks templates (`.njk` files)  
-- `dist/` → Contains compiled HTML output after build
+- `docs/` → Contains compiled HTML output after build
 
 ## How to Run
 1. Install dependencies  
