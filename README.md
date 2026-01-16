@@ -1,4 +1,8 @@
 # Internship Task 2 – FoodWheels
+## Screenshots
+
+![Home Page Screenshot](./src/assets/homepage.png)
+
 
 ## Objective
 Recreate Internship Task-1 using a strict tech stack and templating engine.
