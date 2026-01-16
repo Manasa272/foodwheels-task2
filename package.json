@@ -1,0 +1,11 @@
+{
+  "name": "foodwheels-task2",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node build.cjs"
+  },
+  "dependencies": {
+    "nunjucks": "^3.2.4"
+  }
+}
