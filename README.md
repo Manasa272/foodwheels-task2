@@ -1,5 +1,5 @@
 # Internship Task 2 – FoodWheels
-## Screenshots
+
 
 ![Home Page Screenshot](./src/assets/homepage.png)
 
