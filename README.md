@@ -49,6 +49,10 @@ npm run build
 
 # Option 2: macOS / Linux
 open docs/index.html
+
+# Option 3: Windows PowerShell
+start docs/index.html
+
 ---
 
 ## Output
@@ -71,6 +75,3 @@ The project is deployed using **GitHub Pages** for live access.
 
 You can view the hosted version of the project at the following link:  
 👉 https://manasa272.github.io/foodwheels-task2/
-
-# Option 3: Windows PowerShell
-start docs/index.html
