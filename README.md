@@ -3,18 +3,18 @@
 ## Home Page Screenshot
 ![FoodWheels Home Page](./src/assets/homepage.png)
 
----
+
 
 ## Objective
 Recreate **Internship Task-1** using a **strict mandatory tech stack** with a templating engine and build system.
 
----
+
 
 ## Tech Stack Used
 - **Templating Engine:** Nunjucks  
 - **Bundler / Build Tool:** Vite  
 
----
+
 
 ## Folder Structure
 - `docs/`  
@@ -51,7 +51,7 @@ open docs/index.html
 # Or Windows PowerShell:
 start docs/index.html
 
----
+
 
 
 ###
